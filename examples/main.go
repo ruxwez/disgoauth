@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	// Import DisGOAuth
-	disgoauth "github.com/realTristan/disgoauth"
+	disgoauth "github.com/ruxwez/disgoauth"
 )
 
 // Main function

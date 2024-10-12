@@ -1,3 +1,3 @@
-module github.com/realTristan/disgoauth
+module github.com/ruxwez/disgoauth
 
 go 1.17
